@@ -8,21 +8,21 @@ export default {
     },
     test: {
         // 测试环境接口地址
-        API: 'https://testjdb.bxlsj.com',
+        API: 'https://mock.apifox.cn/m1/735495-0-default',
         // 测试环境 cdn 路径
         CDN: '',
         APP_RUN_ENV: 'test'
     },
     preview: {
         // 预生产环境接口地址
-        API: 'https://prexhb.bxlsj.com',
+        API: 'https://mock.apifox.cn/m1/735495-0-default',
         // 预生产环境 cdn 路径
         CDN: '',
         APP_RUN_ENV: 'preview'
     },
     production: {
         // 正式环境接口地址
-        API: 'https://xhb.bxlsj.com',
+        API: 'https://mock.apifox.cn/m1/735495-0-default',
         // 正式环境 cdn 路径
         CDN: '',
         // 
